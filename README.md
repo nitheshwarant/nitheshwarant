@@ -23,7 +23,7 @@
 
 I'm a **Full Stack Developer** with 1.5+ year of production experience building real-world SaaS products.
 
-Currently working at **MINE IT**, contributing to **SwiftBIM** — a live B2B platform used by real clients — where I own features **end-to-end**, from requirement to deployment.
+Currently working at **MINE IT** — a live B2B platform used by real clients — where I own features **end-to-end**, from requirement to deployment.
 
 - 🔭 Working on real-time SaaS products  
 - 💬 Ask me about **React, Python, Java**  
