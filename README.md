@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge">
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge">
+  <a href="https://github.com/nitheshwarant">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge">
   </a>
 </p>
 
