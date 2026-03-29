@@ -1,64 +1,140 @@
-<h1 align="center">Hey 👋, I'm Nitheshwaran</h1>
-<h3 align="center">Full Stack Developer · Bengaluru, India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  🚀 Currently shipping live B2B features at <b>MINE IT</b>
-</p>
+```
+███╗   ██╗██╗████████╗██╗  ██╗███████╗███████╗██╗  ██╗
+████╗  ██║██║╚══██╔══╝██║  ██║██╔════╝██╔════╝██║  ██║
+██╔██╗ ██║██║   ██║   ███████║█████╗  ███████╗███████║
+██║╚██╗██║██║   ██║   ██╔══██║██╔══╝  ╚════██║██╔══██║
+██║ ╚████║██║   ██║   ██║  ██║███████╗███████║██║  ██║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge">
-  </a>
-  <a href="https://github.com/nitheshwarant">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge">
-  </a>
-</p>
+### `> Full Stack Developer` · `Bengaluru, India 🇮🇳`
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5A0&center=true&vCenter=true&width=500&lines=Building+real+SaaS+products+%F0%9F%9A%80;End-to-end+feature+ownership+%E2%9C%85;React+%7C+Python+%7C+Java+%7C+Flask;Shipping+live+B2B+at+MINE+IT+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-### 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitheshwarant)
 
-I'm a **Full Stack Developer** with 1.5+ year of production experience building real-world SaaS products.
-
-Currently working at **MINE IT** — a live B2B platform used by real clients — where I own features **end-to-end**, from requirement to deployment.
-
-- 🔭 Working on real-time SaaS products  
-- 💬 Ask me about **React, Python, Java**  
-- 📍 Based in Bengaluru, India  
+</div>
 
 ---
 
-### ⚙️ Tech Stack
+## `$ whoami`
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+```yaml
+name       : Nitheshwaran
+role       : Full Stack Developer
+experience : 1.5+ years in production
+company    : MINE IT (Live B2B SaaS Platform)
+location   : Bengaluru, India 🇮🇳
+ownership  : End-to-end — requirement → code → deploy
+interests  : [Real-time SaaS, Clean APIs, Scalable UIs]
+```
 
-#### 🔧 Backend
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+> 🔭 Currently shipping live B2B features at **MINE IT** — real clients, real impact  
+> ⚙️ I own features **fully**: from reading requirements to pushing to production  
+> 🌱 Always leveling up in system design, performance optimization & DevOps  
+> 💬 Ask me about **React · Python · Java · Flask · MySQL · Deployments**
 
-#### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+---
 
-#### 🚀 Deployment
-![Termius](https://img.shields.io/badge/Termius-Server-black)
-![SNH Cloud](https://img.shields.io/badge/SNH%20Cloud-Hosting-blue)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS-orange?logo=cloudflare)
+## `$ cat tech-stack.json`
 
-#### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+<details open>
+<summary><b>💻 Frontend</b></summary>
+<br>
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 GitHub Stats
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitheshwarant&show_icons=true&theme=tokyonight" />
-</p>
+<details open>
+<summary><b>🔧 Backend</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛢️ Database</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 Deployment & Infrastructure</b></summary>
+<br>
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SNH Cloud](https://img.shields.io/badge/SNH%20Cloud-Hosting-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-SSH%20%26%20Server%20Mgmt-1A1A2E?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+> 🖥️ Comfortable managing **Linux servers via SSH (Termius)**, configuring **Cloudflare DNS & proxy rules**,  
+> hosting on **SNH Cloud**, and getting apps live — not just writing code, but **owning the full pipeline**.
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+---
+
+## `$ git log --oneline` · What I bring to a team
+
+```diff
++ Feature ownership from day one — no hand-holding needed
++ Deployed real features used by actual B2B clients
++ Full pipeline: UI → API → DB → Server → DNS → Live
++ Comfortable context-switching between React, Python & Java
++ Write code that goes to production, not just to PR
+```
+
+---
+
+## `$ ./stats.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitheshwarant&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheshwarant&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nitheshwarant&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────────────┐
+  │   "Don't just build features. Ship them."        │
+  │                         — Nitheshwaran           │
+  └──────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitheshwarant&color=00f5a0&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
